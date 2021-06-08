@@ -2,7 +2,7 @@
 
 ### 풀스택을 지향하는 개발자 이한주입니다.
 
-#### About Me
+### About Me
 
   - [Notion](https://www.notion.so/363e92b9d464449aad1657098c5d4e10)
   - [Blog](https://2oneweek.dev)
