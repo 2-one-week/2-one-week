@@ -1,7 +1,5 @@
 ## 이한주 (Lee HanJu)
 
-### 풀스택을 지향하는 개발자 이한주입니다.
-
 ### About Me
 
   - [Notion](https://www.notion.so/2oneweek/230e4a8f7289440bbd19e84cd2bf7881)
